@@ -13,5 +13,8 @@ Bankomatda mavjud bo’lgan kupyuralar ro’yxati va miqdori (Bunda bankomat bo�
 Bankomatda minimum qancha mablag’ qolsa bankning mas’ul xodimiga xabar 
 borishligi uchun miqdor (Masalan: 20 000 000 dan kam qolsa Emailga kelsin yoki 10 000 000)
 <br />
-### 2. CURRENCY(USD) API FROM «https://cbu.uz/uz/arkhiv-kursov-valyut/json/»
+### 2. All transactions between user and atm
+1.login adn password card 
+2.menu - > balance - withdraw - deposit - transfer - change  - pin code - exit.
+### 3. CURRENCY(USD) API FROM «https://cbu.uz/uz/arkhiv-kursov-valyut/json/»
 1. Create method that converts  usd to sums and sums to usd
