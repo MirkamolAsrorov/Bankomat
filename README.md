@@ -16,5 +16,5 @@ borishligi uchun miqdor (Masalan: 20 000 000 dan kam qolsa Emailga kelsin yoki 1
 ### 3. CURRENCY(USD) API FROM «https://cbu.uz/uz/arkhiv-kursov-valyut/json/»
 1. Create method that converts  usd to sums and sums to usd
 <br />
-### 4. All conversation between user and atm.
+###  4. All conversation between user and atm.
 1. It is a clear understatement structure. https://drive.google.com/file/d/1_Xb2qNpyo7KuDSXbXGyUge1xQ2fR__L_/view?usp=share_link
